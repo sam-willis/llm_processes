@@ -162,3 +162,6 @@ cython_debug/
 # output directories
 plots/
 output/
+
+.venv
+.vscode
